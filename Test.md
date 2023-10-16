@@ -20,3 +20,7 @@
 * git branch name
 
 * git log --graph
+
+* git rebase - команда, перебазирующая коммиты
+
+* git cherry-pick - команда, создающая точную копию коммитов

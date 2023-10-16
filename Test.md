@@ -13,9 +13,10 @@
 
 ## Второй семинар
 
-git branch - вывести все ветки
+* git branch - вывести все ветки
 
-git log - выводит коммиты
+* git log - выводит коммиты
 
-git branch name
+* git branch name
 
+* git log --graph
